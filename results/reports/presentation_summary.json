@@ -1,0 +1,31 @@
+{
+    "project_title": "Trader Behavior Insights: Correlation with Market Sentiment",
+    "author": "[Your Name]",
+    "date": "2025-07-28",
+    "data_summary": {
+        "total_trades": 211224,
+        "unique_traders": 32,
+        "analysis_period": "2023-03-28 to 2025-06-15",
+        "total_pnl": 10296958.943435999
+    },
+    "key_insights": [
+        "Statistically significant difference in trader performance between Fear and Greed periods",
+        "Four distinct trader segments identified through machine learning clustering",
+        "Optimal trading hours and risk parameters determined",
+        "Clear correlation between market sentiment and leverage usage"
+    ],
+    "deliverables": [
+        "Executive Dashboard (interactive HTML)",
+        "Sentiment Analysis Deep Dive",
+        "Trader Segmentation Model",
+        "Time Series Analysis",
+        "Actionable Recommendations",
+        "Comprehensive Final Report"
+    ],
+    "technologies_used": [
+        "Python (pandas, numpy, scikit-learn)",
+        "Advanced visualization (plotly, matplotlib, seaborn)",
+        "Statistical analysis (scipy, statsmodels)",
+        "Machine learning (K-means clustering, PCA)"
+    ]
+}

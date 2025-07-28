@@ -1,0 +1,34 @@
+{
+    "Executive Summary": {
+        "Total Trades Analyzed": 211224,
+        "Total Traders": 32,
+        "Analysis Period": "2023-03-28 to 2025-06-15",
+        "Total PnL Generated": "$10,296,958.94",
+        "Overall Win Rate": "41.13%"
+    },
+    "Sentiment Analysis": {
+        "Fear vs Greed Performance": {
+            "Fear Avg PnL": "$50.05",
+            "Greed Avg PnL": "$87.89",
+            "Better Performance In": "Greed"
+        },
+        "Statistical Test": {
+            "P-Value": 3.458946954154015e-11,
+            "Significant": true,
+            "Effect Size": -0.03654396426322723
+        }
+    },
+    "Top Performers": {
+        "Best Trader": "27",
+        "Best Total PnL": "$2,143,382.60",
+        "Highest Win Rate": "81.09%",
+        "Most Active Trader": "31",
+        "Most Trades": 40184
+    },
+    "Trading Patterns": {
+        "Most Active Hour": 21,
+        "Most Profitable Hour": 3,
+        "Most Traded Symbol": "HYPE",
+        "Most Profitable Symbol": "@107"
+    }
+}

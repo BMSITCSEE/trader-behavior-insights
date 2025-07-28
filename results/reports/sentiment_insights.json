@@ -1,0 +1,22 @@
+{
+    "sentiment_impact": {
+        "fear_avg_pnl": 50.047621894017375,
+        "greed_avg_pnl": 87.8948589207749,
+        "difference": 37.84723702675752,
+        "statistical_significance": true,
+        "p_value": 3.458946954154015e-11,
+        "effect_size": -0.03654396426322723
+    },
+    "risk_comparison": {
+        "fear_volatility": 909.121795680185,
+        "greed_volatility": 1148.3439676562105,
+        "fear_total_pnl": 6699925.190574,
+        "greed_total_pnl": 3189616.535376
+    },
+    "trading_behavior": {
+        "fear_avg_leverage": 5.505230408378215,
+        "greed_avg_leverage": 5.493250847364215,
+        "fear_avg_size": 5259.977836723413,
+        "greed_avg_size": 3182.8838449667946
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "Executive Summary": {
+        "Total Traders Analyzed": 32,
+        "Average Win Rate": "40.31%",
+        "Total PnL": "$10,296,958.94",
+        "Statistical Significance": "Yes"
+    },
+    "Key Findings": {
+        "1. Sentiment Impact": {
+            "fear_avg_pnl": 50.047621894017375,
+            "greed_avg_pnl": 87.8948589207749,
+            "difference": 37.84723702675752,
+            "statistical_significance": true,
+            "p_value": 3.458946954154015e-11,
+            "effect_size": -0.03654396426322723
+        },
+        "2. Trader Segments": {
+            "Cluster 0": {
+                "Count": 4,
+                "Avg Total PnL": "$324,586.74",
+                "Avg Win Rate": "59.75%"
+            },
+            "Cluster 1": {
+                "Count": 13,
+                "Avg Total PnL": "$72,692.73",
+                "Avg Win Rate": "40.80%"
+            },
+            "Cluster 2": {
+                "Count": 5,
+                "Avg Total PnL": "$1,272,055.87",
+                "Avg Win Rate": "39.88%"
+            },
+            "Cluster 3": {
+                "Count": 10,
+                "Avg Total PnL": "$169,332.72",
+                "Avg Win Rate": "32.11%"
+            }
+        },
+        "3. Top Performers": {
+            "Best Trader": "27",
+            "Best Total PnL": "$2,143,382.60",
+            "Highest Win Rate": "81.09%",
+            "Most Active Trader": "31",
+            "Most Trades": 40184
+        }
+    },
+    "Recommendations": [
+        [
+            "Limit leverage to 7.8x based on successful trader patterns",
+            "Implement stop-loss at 2% of account value per trade",
+            "Diversify across at least 5 different symbols to reduce concentration risk"
+        ],
+        [
+            "Focus trading activity during hours [16, 3, 21]",
+            "Increase position sizes during Fear periods for better risk-adjusted returns",
+            "Target symbols with consistent profitability rather than high volatility"
+        ],
+        [
+            "Maintain win rate above 45% with proper risk-reward ratio",
+            "Keep average trade count between 50-200 per month for optimal performance",
+            "Monitor and adjust strategies based on market sentiment changes"
+        ]
+    ]
+}

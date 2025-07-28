@@ -1,0 +1,54 @@
+{
+    "Conservative Traders": {
+        "name": "Conservative Traders",
+        "size": 4,
+        "characteristics": {
+            "avg_total_pnl": 324586.736655,
+            "avg_win_rate": 0.5975393282324253,
+            "avg_leverage": 5.473497748717456,
+            "avg_trades": 4476.25
+        },
+        "top_performer": "11",
+        "trading_style": "Aggressive",
+        "risk_level": "High"
+    },
+    "High Volume Traders": {
+        "name": "High Volume Traders",
+        "size": 13,
+        "characteristics": {
+            "avg_total_pnl": 72692.72923307693,
+            "avg_win_rate": 0.4079534384562864,
+            "avg_leverage": 5.575053600296782,
+            "avg_trades": 3184.153846153846
+        },
+        "top_performer": "9",
+        "trading_style": "Aggressive",
+        "risk_level": "High"
+    },
+    "Risk Takers": {
+        "name": "Risk Takers",
+        "size": 5,
+        "characteristics": {
+            "avg_total_pnl": 1272055.8664361998,
+            "avg_win_rate": 0.3987504269993548,
+            "avg_leverage": 5.506046466182843,
+            "avg_trades": 18432.6
+        },
+        "top_performer": "27",
+        "trading_style": "Aggressive",
+        "risk_level": "High"
+    },
+    "Professional Traders": {
+        "name": "Professional Traders",
+        "size": 10,
+        "characteristics": {
+            "avg_total_pnl": 169332.71846049998,
+            "avg_win_rate": 0.32106976646107926,
+            "avg_leverage": 5.460900812280696,
+            "avg_trades": 5976.2
+        },
+        "top_performer": "15",
+        "trading_style": "Aggressive",
+        "risk_level": "High"
+    }
+}

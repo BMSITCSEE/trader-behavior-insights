@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Risk Management",
+        "recommendations": [
+            "Limit leverage to 7.8x based on successful trader patterns",
+            "Implement stop-loss at 2% of account value per trade",
+            "Diversify across at least 5 different symbols to reduce concentration risk"
+        ]
+    },
+    {
+        "category": "Trading Strategy",
+        "recommendations": [
+            "Focus trading activity during hours [16, 3, 21]",
+            "Increase position sizes during Fear periods for better risk-adjusted returns",
+            "Target symbols with consistent profitability rather than high volatility"
+        ]
+    },
+    {
+        "category": "Performance Optimization",
+        "recommendations": [
+            "Maintain win rate above 45% with proper risk-reward ratio",
+            "Keep average trade count between 50-200 per month for optimal performance",
+            "Monitor and adjust strategies based on market sentiment changes"
+        ]
+    }
+]
