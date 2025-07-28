@@ -61,6 +61,16 @@ def main():
     # Save statistical results
     with open('results/reports/statistical_results.json', 'w') as f:
         json.dump(statistical_results, f, indent=4)
+
+    # Generate basic visualizations using Visualizer
+    print("Creating basic visualizations...")
+    visualizer.plot_pnl_distribution(merged_df, 'results/figures/pnl_distribution.png')
+    visualizer.plot_trader_clusters(trader_clusters, 'results/figures/trader_clusters.html')
+    visualizer.plot_time_analysis(merged_df, 'results/figures/time_analysis.html')
+    
+    # Generate initial report
+    print("Generating initial analysis report...")
+    generate_report(trader_metrics, sentiment_impact, statistical_results, trader_clusters)
     
     
     # Run comprehensive visualization generation
